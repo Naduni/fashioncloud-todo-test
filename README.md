@@ -1,4 +1,4 @@
-# node-todo-test
+# fashioncloud-todo-test
 Automated Selenium tests for fashioncloud node-todo application.
 
 **Prerequisites**
